@@ -1,0 +1,110 @@
+body
+{
+background-color: #12141a;
+}
+
+/* geral */
+*{
+box-sizing: border-box;
+font-family: Helvetica, sans-serif;
+color: #323232;
+border: 10px;
+}
+  
+input, label 
+{
+display: block;
+outline: none;
+width: 100%;
+}
+  
+a 
+{
+color: #101a3a;
+}
+  
+  
+/* form */
+#main-container 
+{
+position: absolute;
+width: 500px;
+height: 425px;
+margin-left: 380px;
+background-color: #FFF;
+border-radius: 10px;
+padding: 25px;
+margin-top: 7%;
+}
+  
+#main-container h1 
+{
+bottom: 220px;
+font-size: 30px;
+}
+  
+  form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .primeiroformulario {
+    flex: 1 1 100%;
+    position: relative;
+  }
+  
+  .segundoformulario {
+    flex: 1 1 45%;
+    position: relative;
+  }
+  
+  .spacing {
+    margin-right: 2.5%;
+  }
+  
+  label {
+    font-weight: bold;
+    font-size: .8rem;
+  }
+  
+input {
+border-bottom: 2px solid #100a27;
+padding: 10px;
+font-size: .9rem;
+margin-bottom: 40px;
+}
+
+#comprar
+{
+color: rgb(255, 243, 243);
+text-decoration: none;
+margin-left: 180px;
+top: 15px;
+position: absolute;
+}
+
+#areacomprar
+{
+position: absolute;
+bottom: 30px;
+height: 50px;
+width: 450px;
+background-color: #040713;
+border-radius: 10px;
+}
+
+#texto
+{
+height: 30px;
+width: 300px;
+}
+
+#logo
+{
+height: 50px;
+width: 450px;
+background-color: #12141a;
+border-radius: 10px;
+padding: 5px;
+}

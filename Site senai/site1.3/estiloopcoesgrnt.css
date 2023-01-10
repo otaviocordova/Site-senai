@@ -1,0 +1,65 @@
+.titulo
+{
+position: absolute;
+height: 50px;
+width: 340px;
+border-radius: 10px;
+border-width: 3px;
+border-style: solid;
+border-color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+bottom: 510px;
+left: 450px;
+background-color: #df3047;
+}
+
+body
+{
+background-color: #12141a;;
+}
+
+.clientes
+{
+position: absolute;
+height: 150px;
+width: 300px;
+border-radius: 10px;
+border-width: 3px;
+border-style: solid;
+border-color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+text-decoration: none;
+font-size: 50px;
+bottom: 200px;
+left: 150px;
+}
+
+.produtos
+{
+position: absolute;
+height: 150px;
+width: 300px;
+border-radius: 10px;
+border-width: 3px;
+border-style: solid;
+border-color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+font-size: 50px;
+bottom: 200px;
+left: 800px;
+}
+
+.textos
+{
+text-decoration: none;
+color: white;
+}

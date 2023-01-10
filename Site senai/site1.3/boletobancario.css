@@ -1,0 +1,33 @@
+h1
+{
+position: absolute;
+top: 330px;
+margin-left: 610px;
+color: white;
+}
+
+.textofinalizacao
+{
+position: absolute;
+top: 500px;
+color: white;
+margin-left: 650px;
+font-size: 25px;
+}
+
+.imgarea
+{
+margin-left: 20px;
+border-style: solid;
+border-width: 10px;
+border-radius: 10px;
+color: rgb(31, 106, 245);
+height: 650px;
+width: 550px;
+}
+
+#img
+{
+height: 650px;
+width: 550px;
+}

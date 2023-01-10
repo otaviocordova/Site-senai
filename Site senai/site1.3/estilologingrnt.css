@@ -1,0 +1,13 @@
+.container
+{
+position:absolute;
+left: 500px;
+top: 500px;
+}
+
+.container2
+{
+position:absolute;
+bottom: 85px;
+left: 700px;
+}

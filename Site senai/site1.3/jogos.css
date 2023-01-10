@@ -1,0 +1,83 @@
+body
+{
+background-color: #12141a;
+margin: 0;
+padding: 0;
+}
+
+#imagem
+{
+height: 320px;
+width: 350px;
+position: absolute;
+margin-left: 120px;
+background-color: #14661C;
+border-radius: 10px;
+}
+
+.imagemjogo
+{
+height: 250px;
+width: 350px;
+border-radius: 10px;
+}
+
+#textoimagem
+{
+font-size: 50px;
+color: white;
+margin-left: 70px;
+margin-top: -2px;
+}
+
+/*daqui pra cima é a compra*/
+
+/*daqui pra baixo é a descrição da compra*/
+
+#texto
+{
+background-color: #270732;
+height: 390px;
+width: 350;
+float: right;
+margin-right: 100px;
+border-radius: 10px;
+color: white;
+}
+
+#textodescricaodacompra
+{
+font-size: 30px;
+margin-left: 10px;
+margin-bottom: 100px;
+}
+
+
+.nav
+{
+left: 165px;
+border-radius: 10px;
+height: 60px;
+width: 250px;
+position: relative;
+text-decoration: none;
+font-size: 50px;
+color: rgb(255, 255, 255);
+background-color: #0d4413;
+font-style: arial;
+bottom: -350px;
+}
+
+#espaco
+{
+position: absolute;
+height: 150px;
+width: 150px;
+bottom: -400px;
+}
+
+a
+{
+text-decoration: none;
+color: white;
+}

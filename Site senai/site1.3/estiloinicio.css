@@ -1,0 +1,84 @@
+body
+{
+background-color: #12141a;
+}
+
+#cliente
+{
+position: absolute;
+background-color: #040713;
+height: 100px;
+width: 350px;
+bottom: 300px;
+margin-left: 150px;
+border-radius: 10px;
+border-width: 2px;
+border-style: solid;
+border-color: white;
+text-align: center;
+}
+
+#suporte
+{
+position: absolute;
+background-color: #040713;
+height: 100px;
+width: 350px;
+bottom: 300px;
+margin-left: 750px;
+border-radius: 10px;
+border-width: 2px;
+border-style: solid;
+border-color: white;
+text-align: center;
+}
+
+#gerente
+{
+position: absolute;
+background-color: #040713;
+height: 100px;
+width: 350px;
+bottom: 110px;
+margin-left: 450px;
+border-radius: 10px;
+border-width: 2px;
+border-style: solid;
+border-color: white;
+text-align: center;
+}
+
+#texto
+{
+position: absolute;
+background-color: #df3047;
+color: white;
+height: 50px;
+width: 450px;
+bottom: 510px;
+left: 410px;
+border-radius: 10px;
+padding: 5px;
+border-width: 2px;
+border-style: solid;
+border-color: white;
+text-align: center;
+margin-bottom: 5px;
+}
+
+#edititexto
+{
+margin-left: 10px;
+margin-top: 5px;
+}
+
+.textosblocos
+{
+position: absolute;
+text-decoration: none;
+font: arial;
+font-size: 60px;
+right: 50px;
+top: -45px;
+color: white;
+}

@@ -1,0 +1,178 @@
+body
+{
+background-color: #12141a;
+margin: 0;
+padding: 0;
+}
+
+#logo 
+{
+height: 21px;
+width: 224px;
+margin-left: 60px;
+margin-top: 70px;
+margin-bottom: 150px;
+position: absolute;
+}
+
+#txtBusca
+{
+margin-top: 50px;
+margin-left: 25%;
+background-color:rgb(0, 0, 0);
+
+font-style:arial;
+font-size:25px;
+color: rgb(255, 255, 255);
+    
+border-radius: 5px;
+border-width: 2px;
+height:50px;
+width: 700px;
+border-color: rgb(0, 0, 0);
+float: left;
+}
+
+#bloco1
+{
+background-color: #603795;
+height: 150px;
+width: 150px;
+float: left;
+margin-left: 86px;
+border-radius: 10px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+text-align: center;
+}
+
+#bloco2
+{
+background-color: #603795;
+height: 150px;
+width: 150px;
+float: right;
+margin-right: 86px;
+border-radius: 10px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+text-align: center;
+}
+
+#bloco3
+{
+background-color: #603795;
+height: 150px;
+width: 150px;
+float: left;
+margin-left: 50px;
+border-radius: 10px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+text-align: center;
+}
+
+#bloco4
+{
+background-color: #603795;
+height: 150px;
+width: 150px;
+float: right;
+border-radius: 10px;
+margin-right: 50px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+text-align: center;
+}
+
+#bloco5
+{
+background-color: #603795;
+height: 150px;
+width: 150px;
+float: left;
+border-radius: 10px;
+margin-left: 50px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+text-align: center;
+}
+
+#bloco6
+{
+background-color: #603795;
+height: 150px;
+width: 150px;
+float: right;
+border-radius: 10px;
+margin-right: 50px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+text-align: center;
+}
+
+#borda
+{
+background-color: #270732;
+height: 90px;
+width: 100%;
+padding-bottom: 90px;
+margin-bottom: 150px;
+}
+
+.foto
+{
+height: 75%;
+width: 100%;
+border-radius: 10px;
+}
+
+.linkstopo
+{
+text-decoration: none;
+color: white;
+font-size: 30px;
+}
+
+.navs
+{
+position: absolute;
+top: 115px;
+left: 334px;
+text-align: center;
+}
+
+.links
+{
+text-decoration: none;
+color: white;
+font-size: 25px;
+}
+
+#login
+{
+position: absolute;
+height: 50px;
+width: 200px;
+background-color: rgb(253, 81, 75);
+margin-left: 1050px;
+border-radius: 5px;
+text-align: center;
+margin-top: 55px;
+}
+
+#textologin
+{
+position: absolute;
+margin-left: -80px;
+text-decoration: none;
+font-size: 40px;
+color: white;
+font: arial;
+}
